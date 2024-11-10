@@ -7,7 +7,7 @@ Hesap makinesini açmaya yarar.
 calc.exe
 ```
 
-![isim](Images/calc.png " Komutu")
+![isim](Images1/calc.png " Komutu")
 
 
 
@@ -15,10 +15,10 @@ calc.exe
 Disk yönetimini açmaya yarar.
 
 ```Bash
-ls
+diskmgmt.msc
 ```
 
-![isim](Images/disk.png " Komutu")
+![isim](Images1/disk.png " Komutu")
 
 
 
@@ -29,7 +29,7 @@ Aygıt yöneticisini açmaya yarar.
 devmgmt.msc
 ```
 
-![isim](Images/3.png " Komutu")
+![isim](Images1/3.png " Komutu")
 
 
 
@@ -40,7 +40,7 @@ Karakter imal etmeye yarar (kişisel emoji oluşturulabilir).
 eudcedit.exe
 ```
 
-![isim](Images/4.png " Komutu")
+![isim](Images1/4.png " Komutu")
 
 
 
@@ -51,7 +51,7 @@ Paylaşılan klasör menüsünü açmaya yarar.
 fsmgmt.msc
 ```
 
-![isim](Images/5.png " Komutu")
+![isim](Images1/5.png " Komutu")
 
 
 
@@ -62,7 +62,7 @@ Donanım ekleme sihirbazını açmaya yarar.
 hdwwiz.cpl
 ```
 
-![isim](Images/6.png " Komutu")
+![isim](Images1/6.png " Komutu")
 
 
 
@@ -72,7 +72,7 @@ Büyüteçi açmaya yarar.
 magnify.exe
 ```
 
-![isim](Images/7.png "Komutu")
+![isim](Images1/7.png "Komutu")
 
 
 
@@ -83,7 +83,7 @@ Ekran okuyucusunu açmaya yarar.
 narrator.exe
 ```
 
-![isim](Images/8.png "Komutu")
+![isim](Images1/8.png "Komutu")
 
 
 
@@ -94,7 +94,7 @@ Ekran klavyesini açmaya yarar.
 osk.exe
 ```
 
-![isim](Images/9.png " Komutu")
+![isim](Images1/9.png " Komutu")
 
 
 
@@ -105,7 +105,7 @@ Windows Gezgini’ni açmaya yarar.
 explorer.exe
 ```
 
-![isim](Images/10.png " Komutu")
+![isim](Images1/10.png " Komutu")
 
 
 
@@ -116,7 +116,7 @@ Görev yöneticisini açmaya yarar.
 taskmgr.exe
 ```
 
-![isim](Images/11.png " Komutu")
+![isim](Images1/11.png " Komutu")
 
 
 
@@ -126,7 +126,7 @@ Windows’u yeniden başlatmaya yarar.
 logon.exe
 ```
 
-![isim](Images/12.png " Komutu")
+![isim](Images1/12.png " Komutu")
 
 
 
@@ -137,7 +137,7 @@ Hangi ağa bağlanıldı ise IP adresini bulmaya yarar.
 nslookup.exe
 ```
 
-![isim](Images/13.png "Komutu")
+![isim](Images1/13.png "Komutu")
 
 
 
@@ -147,7 +147,7 @@ Tüm bağlantıları göstermeye yarar.
 netstat -a
 ```
 
-![isim](Images/14.png "Komutu")
+![isim](Images1/14.png "Komutu")
 
 
 
@@ -159,7 +159,7 @@ Ethernet istatistiklerini görüntülemeye yarar.
 netstat -e
 ```
 
-![isim](Images/15.png "Komutu")
+![isim](Images1/15.png "Komutu")
 
 
 
@@ -170,7 +170,7 @@ Her bağlantıya sahip işlem kimliğini göstermeye yarar.
 netstat -o
 ```
 
-![isim](Images/16.png "Komutu")
+![isim](Images1/16.png "Komutu")
 
 
 
@@ -180,7 +180,7 @@ Windows sürümünün bilgilerini gösterir.
 winver
 ```
 
-![isim](Images/17.png "Komutu")
+![isim](Images1/17.png "Komutu")
 
 
 
@@ -191,7 +191,7 @@ Bilgisayarın bağlı olduğu ağdaki IP adresini göstermeye yarar.
 ipconfig
 ```
 
-![isim](Images/18.png "Komutu")
+![isim](Images1/18.png "Komutu")
 
 
 ## `shutdown` Komutu
@@ -201,7 +201,7 @@ Bilgisayarı kapatmaya yarar.
 shutdown
 ```
 
-![isim](Images/19.png "Komutu")
+![isim](Images1/19.png "Komutu")
 
 
 
