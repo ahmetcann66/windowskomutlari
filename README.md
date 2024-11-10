@@ -1,5 +1,5 @@
 # windowskomutlari
-[Images1.zip](https://github.com/user-attachments/files/17689848/Images1.zip)
+
  
 
 ## `calc.exe` Komutu
