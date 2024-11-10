@@ -1,4 +1,5 @@
 # windowskomutlari
+
  
 
 ## `calc.exe` Komutu
@@ -8,6 +9,7 @@ calc.exe
 ```
 
 ![isim](Images1/calc.png " Komutu")
+
 
 
 
