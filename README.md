@@ -8,7 +8,7 @@ Hesap makinesini açmaya yarar.
 calc.exe
 ```
 
-![isim](Images1/2.png " Komutu")
+![isim](Images1/calc.png " Komutu")
 
 
 
