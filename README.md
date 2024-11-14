@@ -1,6 +1,26 @@
-# windowskomutlari
 
-# Sistem yönetim komutları
+# Windows Komutları 👨‍💻👩‍💻
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Açıklama ����
+Bu repo, Windows işletim sisteminde kullanılan çeşitli komutları ve sistem yönetim araçlarını kapsamlı bir şekilde açıklamaktadır. Hem yeni başlayanlar hem de deneyimli kullanıcılar için faydalı olabilecek bu kaynak, aşağıdaki ana kategorileri içermektedir:
+
+
+## İçindekiler 🗒️
+
+| Bölüm | Alt Bölümler |
+|-------|--------------|
+| [Sistem yönetim komutları](#sistem-yönetim-komutları) | `diskmgmt.msc`, `devmgmt.msc`, `fsmgmt.msc`, `hdwwiz.cpl`, `taskmgr.exe`, `bcdedit`, `chkdsk`, `compmgmt.msc`, `dfrgui`, `diskpart`, `eventnwr`, `perfmon`, `regedit`, `services.msc`, `sfc` |
+| [Yardımcı Programlar](#yardımcı-programlar) | `charmap`, `dxdiag`, `explorer`, `msinfo32`, `mspaint`, `osk`, `snippingtool`, `calc.exe`, `magnify.exe`, `narrator.exe`, `osk.exe` |
+| [Ağ ve Komut Satırı Araçları](#ağ-ve-komut-satırı-araçları) | `arp -a`, `getmac`, `ipconfig/all`, `nbtstat -n`, `net share`, `net user`, `netstat -an`, `ping -a`, `ping -f`, `ping -t`, `ping`, `tracert`, `nslookup.exe`, `netstat -a`, `netstat -e`, `netstat -o`, `ipconfig` |
+| [Sistem Bilgileri](#sistem-bilgileri) | `driverquery`, `driverquery/v`, `echo %username%`, `gpresult/r`, `sachtasks`, `systeminfo`, `tasklist/svc`, `winver` |
+| [Dosya ve Dizin Yönetimi](#dosya-ve-dizin-yönetimi) | `explorer.exe`, `rmdir`, `dir` |
+| [Yazı ve Karakter Düzenleme](#yazı-ve-karakter-düzenleme) | `eudcedit.exe` |
+| [Oturum Açma ve Kapatma Komutları](#oturum-açma-ve-kapatma-komutları) | `logon.exe`, `shutdown`, `logoff`, `shutdown/a`, `shutdown/r`, `shutdown/s`, `tsdiscon` |
+
+# Sistem yönetim komutları 👨‍💻
 
 ## `diskmgmt.msc ` Komutu
 Disk yönetimini açmaya yarar.
@@ -100,7 +120,7 @@ Olay Görüntüleyiciyi açar.
 eventnwr
 ```
 
-![isim](Images1/eventnwr.png " Komutu")
+![isim](Images1/eventvwr.png " Komutu")
 
 ## `perfmon` Komutu
 Performans Monitörünü açar.
@@ -138,7 +158,7 @@ sfc
 
 ![isim](Images1/sfc.png " Komutu")
 
-# Yardımcı Programlar
+# Yardımcı Programlar ♟️
 
 ## `charmap` Komutu
 Karakter Eşlem aracını açar.
@@ -241,7 +261,7 @@ osk.exe
 
 ![isim](Images1/9.png " Komutu")
 
-# Ağ ve Komut Satırı Araçları
+# Ağ ve Komut Satırı Araçları🛜
 
 ## `arp -a` Komutu
 ARP (Adres Çözümleme Protokolü) önbelleğini gösterir.
@@ -286,7 +306,7 @@ Paylaşılan kaynakları gösterir veya yönetir.
 net share
 ```
 
-![isim](Images1/net share.png " Komutu")
+![isim](Images1/net%20share.png " Komutu")
 
 ## `net user` Komutu
 Kullanıcı hesaplarını listeler ve yönetir.
@@ -295,7 +315,7 @@ Kullanıcı hesaplarını listeler ve yönetir.
 net user
 ```
 
-![isim](Images1/net user.png " Komutu")
+![isim](Images1/net%20user.png " Komutu")
 
 ## `netstat -an` Komutu
 Ağ bağlantıları ve aktif portlar listelenir (IP ve port numarasıyla).
@@ -303,7 +323,7 @@ Ağ bağlantıları ve aktif portlar listelenir (IP ve port numarasıyla).
 netstat -an
 ```
 
-![isim](Images1/netstat -an.png " Komutu")
+![isim](Images1/netstat%20-an.png " Komutu")
 
 ## `ping -a` Komutu
 Ping ile hedefin IP adresinin karşılık geldiği ana bilgisayar adı gösterilir.
@@ -311,7 +331,7 @@ Ping ile hedefin IP adresinin karşılık geldiği ana bilgisayar adı gösteril
 ping -a
 ```
 
-![isim](Images1/ping -a.png " Komutu")
+![isim](Images1/ping%20-a.png " Komutu")
 
 ## `ping -f` Komutu
 Ekran klavyesini açmaya yarar.
@@ -320,7 +340,7 @@ Ekran klavyesini açmaya yarar.
 ping -f
 ```
 
-![isim](Images1/ping -f.png " Komutu")
+![isim](Images1/ping%20-f.png " Komutu")
 
 ## `ping -t` Komutu
 Hedefe sürekli ping gönderir, bağlantıyı kesene kadar devam eder.
@@ -328,7 +348,7 @@ Hedefe sürekli ping gönderir, bağlantıyı kesene kadar devam eder.
 ping -t
 ```
 
-![isim](Images1/ping -t.png " Komutu")
+![isim](Images1/ping%20-t.png " Komutu")
 
 ## `ping` Komutu
 Ping komutu, bir ağ cihazına veri paketleri göndererek o cihazın erişilebilir olup olmadığını ve yanıt süresini test eder.
@@ -398,7 +418,7 @@ ipconfig
 
 ![isim](Images1/18.png "Komutu")
 
-# Sistem Bilgileri
+# Sistem Bilgileri 👨‍💻
 
 ## `driverquery` Komutu
 Yüklü sürücülerin listesini gösterir.
@@ -410,7 +430,8 @@ driverquery
 
 
 ## `driverquery/v` Komutu
-Yüklü sürücülerin ayrıntılı listesini gösterir.```Bash
+Yüklü sürücülerin ayrıntılı listesini gösterir.
+```Bash
 driverquery/v
 ```
 
@@ -423,7 +444,7 @@ driverquery/v
 echo %username%
 ```
 
-![isim](Images1/echo ahmet.png "Komutu")
+![isim](Images1/echo%20ahmet.png "Komutu")
 
 
 ## `gpresult/r` Komutu
@@ -459,7 +480,7 @@ systeminfo
 tasklist/svc
 ```
 
-![isim](Images1/tasklist svc.png "Komutu")
+![isim](Images1/tasktlist%20svc.png "Komutu")
 
 
 ## `winver` Komutu
@@ -470,7 +491,7 @@ winver
 
 ![isim](Images1/17.png "Komutu")
 
-# Dosya ve Dizin Yönetimi
+# Dosya ve Dizin Yönetimi 🗂️
 
 ## `explorer.exe` Komutu
 Windows Gezgini’ni açmaya yarar.
@@ -487,7 +508,7 @@ Var olan veya tamamen boş olan dosyayı siler.
 ```Bash
 rmdir
 ```
-![isim](Images1/20.png.png " Komutu")
+![isim](Images1/20.png " Komutu")
 
 ## `dir` Komutu
 Geçerli dizindeki dosya ve klasörleri listeler.
@@ -498,7 +519,7 @@ dir
 ![isim](Images1/dir.png " Komutu")
 
 
-# Yazı ve Karakter Düzenleme
+# Yazı ve Karakter Düzenleme 🗒️
 
 
 ## `eudcedit.exe` Komutu
@@ -510,7 +531,7 @@ eudcedit.exe
 
 ![isim](Images1/4.png " Komutu")
 
-# Oturum Açma ve Kapatma Komutları 
+# Oturum Açma ve Kapatma Komutları 🅾️
 
 ## `logon.exe` Komutu
 Windows’u yeniden başlatmaya yarar.
@@ -579,6 +600,14 @@ tsdiscon
 
 ![isim](Images1/tsdiscon.png "Komutu")
 
+## Kaynakça 🗒️
+|Link|Logo|
+|:--|:--:|
+| [www.youtube.com]() |	![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)|
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 
+## Uyarı !!
+Bazı komutlar sisteminiz üzerinde değişiklikler yaparak veri kaybına neden olabilir.Lütfen komutları kullanırken ne işe yaradıklarına dikkat edin !!
 
-
+## İletişim 📞
+ahmetcanbozkurt295@gmail.com
